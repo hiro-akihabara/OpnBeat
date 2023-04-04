@@ -2,16 +2,15 @@
 OpnBeat is Arduino based open source Lo-fi sampler project.<br>
 It's designed to be low cost, easy to understand, to use and to make.
 
-![alt text](images/OpnBeat_PROTO3_rendered_20230404.jpg)
+![alt text](https://cdn.hackaday.io/images/9264861680573454331.jpg)<br>
 3D rendered image by Blender
 
-![alt text](images/OpnBeat_PROTO3_PCB(TOP)_20230404.jpg)
+![alt text](https://cdn.hackaday.io/images/7479401680129290666.png)<br>
 PCB
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=SjGH37jxioc
 " target="_blank"><img src="http://img.youtube.com/vi/SjGH37jxioc/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a>
-
+alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a><br>
 Demo video
 
 # Why this project is beneficial
