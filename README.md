@@ -1,5 +1,6 @@
-# OpnBeat
-OpnBeat is Arduino based open source Lo-fi sampler project with ISD1700 series voice recorder chip. It's low cost, understandable and easy to use sampler with true Lo-fi sound.
+# About the Project
+OpnBeat is Arduino based open source Lo-fi sampler project.<br>
+It's designed to be low cost, easy to understand, to use and to make.
 
 ![alt text](images/OpnBeat_PROTO3_rendered_20230404.jpg)
 3D rendered image by Blender
@@ -12,6 +13,8 @@ PCB
 alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a>
 
 Demo video
+
+# Why this project is beneficial
 
 # Project Status
 I have just developed its prototype (Ver.3), POC (Proof of concept), MVP (Minimum Viable Product) whatever it's called including hardware. But I need supports especially about improving its farmware because I'm mainly an electric engineer and not so good at programming.
